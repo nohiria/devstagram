@@ -5,7 +5,7 @@
 @endsection
 
 @section('contenido')
-    <div class="md:flex md:justify-center md:gap-4">
+    <div class="md:flex md:justify-center md:gap-4 p-10">
         {{-- Imagen --}}
         <div class="md:w-6/12 min-h-max p-4">
             <img class="h-full w-auto object-cover" src="{{ asset('img/registrar.jpg') }}" alt="Imagen registro de usuarios">
