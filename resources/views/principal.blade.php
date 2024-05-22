@@ -1,9 +1,9 @@
 @extends('layouts.app') {{--layouts/app--}}
 
 @section('titulo')
-    Tienda
+    Página principal
 @endsection
 
 @section('contenido')
-    Contenido de la tienda
+    Contenido de la página
 @endsection
